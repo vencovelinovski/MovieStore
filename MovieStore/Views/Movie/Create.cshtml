@@ -1,0 +1,95 @@
+﻿
+@model MovieStore.Entities.Movie
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h1 class="text-center text-uppercase">Create a Movie</h1>
+        </div>
+
+    </div>
+    <hr />
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="MovieName" class="control-label">MovieName</label>
+                    <input asp-for="MovieName" type="text" class="form-control" />
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="DirectorName" class="control-label">DirectorName</label>
+                    <input asp-for="DirectorName" type="text" class="form-control" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <label asp-for="DirectroId">DirectorId</label>
+                    <select asp-for="DirectroId" asp-items="ViewBag.DirectorId" class="form-control"></select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <label asp-for="RealiseDate">RealiseDate</label>
+                    <input asp-for="RealiseDate" type="date" class="form-control" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="ProdusentName">ProdusentName</label>
+                    <input asp-for="ProdusentName" type="text" class="form-control" />
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="ProdusentId">ProdusentId</label>
+                    <select asp-for="ProdusentId" asp-items="ViewBag.ProdusentId" class="form-control"></select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="UserId">UserId</label>
+                    <input asp-for="UserId" type="text" class="form-control" />
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="Genre">Genre</label>
+                    <select asp-for="Genre" asp-items="ViewBag.Genre" class="form-control"></select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="CategoryName">CategoryName</label>
+                    <select asp-for="CategoryName" asp-items="ViewBag.CategoryName" class="form-control"></select>
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="CategoryId">CategoryId</label>
+                    <select asp-for="CategoryId" asp-items="ViewBag.CategoryId" class="form-control"></select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="ActorName">ActorName</label>
+                    <select asp-for="ActorName" asp-items="ViewBag.ActorName" class="form-control"></select>
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="ActorId">ActorId</label>
+                    <select asp-for="ActorId" asp-items="ViewBag.ActorId" class="form-control"></select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="Rating">Rating</label>
+                    <input asp-for="Rating" type="text" class="form-control" />
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="DateAdded">DateAdded</label>
+                    <input asp-for="DateAdded" type="date" class="form-control" />
+                </div>
+            </div>
+            <div class="row mt-2">
+                <div class="col-md-12">
+                    <button class="btn btn-primary btn-block">Create</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3snLhZHIJPJDdJWIwYqEE0nmMIF9ob+ENHmKY4H8GvS4lp/W921vuRkztqXq3X+0osl4y3rDiEaxVpY4ToE2gg==",
+  "dgSpecHash": "fUlhJ65C1YrC3Mfr+Xh96XYWzf/PZGyYvJb30JM4/VJ1CXnqbXEK2fObk0/WdiXDQfguVJCtS93QMksDQ5nzJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Services\\MovieStore.Services.csproj",
+  "projectFilePath": "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Services\\MovieStore.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\venco\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.11\\microsoft.aspnetcore.cryptography.internal.3.1.11.nupkg.sha512",
     "C:\\Users\\venco\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.11\\microsoft.aspnetcore.cryptography.keyderivation.3.1.11.nupkg.sha512",

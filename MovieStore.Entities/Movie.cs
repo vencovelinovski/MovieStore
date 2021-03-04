@@ -10,6 +10,9 @@ namespace MovieStore.Entities
         [Key]
         public int Id { get; set; }
 
+        [StringLength(200)]
+        public string MovieName { get; set; }
+
         [StringLength(150)]
         public string DirectorName { get; set; }
 
@@ -21,6 +24,11 @@ namespace MovieStore.Entities
         public string ProdusentName { get; set; }
         public string ProdusentId { get; set; }
         public Produsent Produsent { get; set; }
+
+        public int UserId { get; set; }
+
+        [StringLength(50)]
+        public string Genre { get; set; }
 
         [StringLength(200)]
         public string CategoryName { get; set; }
@@ -36,7 +44,9 @@ namespace MovieStore.Entities
         public Actor Actor { get; set; }
 
         public string Language { get; set; }
+        public double Rating { get; set; }
 
+        public DateTime DateAdded { get; set; }
         public DateTime RealiseDate { get; set; }
 
 

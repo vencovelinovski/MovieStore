@@ -5859,11 +5859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Services\\MovieStore.Services.csproj",
+      "projectUniqueName": "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Services\\MovieStore.Services.csproj",
       "projectName": "MovieStore.Services",
-      "projectPath": "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Services\\MovieStore.Services.csproj",
+      "projectPath": "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Services\\MovieStore.Services.csproj",
       "packagesPath": "C:\\Users\\venco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Services\\obj\\",
+      "outputPath": "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\venco\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5880,8 +5880,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Repository\\MovieStore.Repository.csproj": {
-              "projectPath": "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Repository\\MovieStore.Repository.csproj"
+            "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Repository\\MovieStore.Repository.csproj": {
+              "projectPath": "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Repository\\MovieStore.Repository.csproj"
             }
           }
         }

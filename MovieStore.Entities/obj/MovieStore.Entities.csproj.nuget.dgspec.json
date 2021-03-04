@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Entities\\MovieStore.Entities.csproj": {}
+    "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Entities\\MovieStore.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Entities\\MovieStore.Entities.csproj": {
+    "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Entities\\MovieStore.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Entities\\MovieStore.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Entities\\MovieStore.Entities.csproj",
         "projectName": "MovieStore.Entities",
-        "projectPath": "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Entities\\MovieStore.Entities.csproj",
+        "projectPath": "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Entities\\MovieStore.Entities.csproj",
         "packagesPath": "C:\\Users\\venco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Entities\\obj\\",
+        "outputPath": "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\venco\\AppData\\Roaming\\NuGet\\NuGet.Config",

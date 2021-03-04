@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4lrG5aN00TXBKkVXox00kDu9dGwMXEV81YZKVRq3+QgE1etd/MXtUuXhnmeH74d531Gplo39vg3TW98729ayhw==",
+  "dgSpecHash": "SA+IYW/E08+88gsCH/XeOq02c0XHtjSZ2w0eb3xAqP9/ZBEdwNggV95B5uxSfvj+JYB8z4BRuIwyEwp+m/MwqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\venco\\Desktop\\MovieStore\\MovieStore\\MovieStore.Entities\\MovieStore.Entities.csproj",
+  "projectFilePath": "C:\\Users\\venco\\Desktop\\movie\\MovieStore\\MovieStore.Entities\\MovieStore.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
