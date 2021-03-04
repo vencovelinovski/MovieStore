@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStore", "MovieStore\MovieStore.csproj", "{3DEA6B8C-650A-41D6-9654-66F8DAD4B2FC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E04AD117-8584-4A40-B522-913EF87E85C2} = {E04AD117-8584-4A40-B522-913EF87E85C2}
+		{D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC} = {D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC}
+		{391FE0D5-71CA-4809-8528-85F45EC6A3A6} = {391FE0D5-71CA-4809-8528-85F45EC6A3A6}
+		{CD85DEDB-8A82-4830-8E18-5953A7ABEB32} = {CD85DEDB-8A82-4830-8E18-5953A7ABEB32}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStore.Data", "MovieStore.Data\MovieStore.Data.csproj", "{E04AD117-8584-4A40-B522-913EF87E85C2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC} = {D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStore.Repository", "MovieStore.Repository\MovieStore.Repository.csproj", "{CD85DEDB-8A82-4830-8E18-5953A7ABEB32}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E04AD117-8584-4A40-B522-913EF87E85C2} = {E04AD117-8584-4A40-B522-913EF87E85C2}
+		{D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC} = {D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStore.Services", "MovieStore.Services\MovieStore.Services.csproj", "{391FE0D5-71CA-4809-8528-85F45EC6A3A6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC} = {D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC}
+		{CD85DEDB-8A82-4830-8E18-5953A7ABEB32} = {CD85DEDB-8A82-4830-8E18-5953A7ABEB32}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStore.Entities", "MovieStore.Entities\MovieStore.Entities.csproj", "{D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEA6B8C-650A-41D6-9654-66F8DAD4B2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEA6B8C-650A-41D6-9654-66F8DAD4B2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEA6B8C-650A-41D6-9654-66F8DAD4B2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEA6B8C-650A-41D6-9654-66F8DAD4B2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04AD117-8584-4A40-B522-913EF87E85C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04AD117-8584-4A40-B522-913EF87E85C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04AD117-8584-4A40-B522-913EF87E85C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04AD117-8584-4A40-B522-913EF87E85C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD85DEDB-8A82-4830-8E18-5953A7ABEB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD85DEDB-8A82-4830-8E18-5953A7ABEB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD85DEDB-8A82-4830-8E18-5953A7ABEB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD85DEDB-8A82-4830-8E18-5953A7ABEB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391FE0D5-71CA-4809-8528-85F45EC6A3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391FE0D5-71CA-4809-8528-85F45EC6A3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391FE0D5-71CA-4809-8528-85F45EC6A3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391FE0D5-71CA-4809-8528-85F45EC6A3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3456E4C-D3CB-4C65-B5E5-A36850C9B6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28C9D49-37E1-463E-BBBF-632D7DEB0E62}
+	EndGlobalSection
+EndGlobal

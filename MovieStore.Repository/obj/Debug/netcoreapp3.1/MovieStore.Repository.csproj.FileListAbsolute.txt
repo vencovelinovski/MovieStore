@@ -1,0 +1,14 @@
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\bin\Debug\netcoreapp3.1\MovieStore.Repository.deps.json
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\bin\Debug\netcoreapp3.1\MovieStore.Repository.dll
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\bin\Debug\netcoreapp3.1\MovieStore.Repository.pdb
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\obj\Debug\netcoreapp3.1\MovieStore.Repository.AssemblyInfoInputs.cache
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\obj\Debug\netcoreapp3.1\MovieStore.Repository.AssemblyInfo.cs
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\obj\Debug\netcoreapp3.1\MovieStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\obj\Debug\netcoreapp3.1\MovieStore.Repository.dll
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\obj\Debug\netcoreapp3.1\MovieStore.Repository.pdb
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\bin\Debug\netcoreapp3.1\MovieStore.Data.dll
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\bin\Debug\netcoreapp3.1\MovieStore.Entities.dll
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\bin\Debug\netcoreapp3.1\MovieStore.Data.pdb
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\bin\Debug\netcoreapp3.1\MovieStore.Entities.pdb
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\obj\Debug\netcoreapp3.1\MovieStore.Repository.csprojAssemblyReference.cache
+C:\Users\venco\Desktop\MovieStore\MovieStore\MovieStore.Repository\obj\Debug\netcoreapp3.1\MovieStore.Repository.csproj.CopyComplete
